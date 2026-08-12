@@ -1,0 +1,466 @@
+[
+  {
+    "name": "Fortnite",
+    "genres": ["Shooter", "Battle Royale", "Action"],
+    "themes": ["Cartoon", "Colorful", "Futuristic"],
+    "modes": ["Multiplayer", "Online", "Competitive"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "tags": ["FPS", "Third Person", "Building", "Battle Royale", "Free to Play"]
+  },
+  {
+    "name": "Overwatch 2",
+    "genres": ["Shooter", "Action"],
+    "themes": ["Colorful", "Futuristic", "Fantasy"],
+    "modes": ["Multiplayer", "Online", "Competitive", "Team Based"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "tags": ["FPS", "Hero Shooter", "Teamwork", "Free to Play"]
+  },
+  {
+    "name": "Valorant",
+    "genres": ["Shooter", "Action", "Tactical"],
+    "themes": ["Futuristic", "Competitive"],
+    "modes": ["Multiplayer", "Online", "Competitive", "Team Based"],
+    "platforms": ["PC", "Console"],
+    "tags": ["FPS", "Tactical Shooter", "Competitive", "Teamwork", "Free to Play"]
+  },
+  {
+    "name": "Apex Legends",
+    "genres": ["Shooter", "Battle Royale", "Action"],
+    "themes": ["Futuristic", "Colorful"],
+    "modes": ["Multiplayer", "Online", "Competitive", "Team Based"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "tags": ["FPS", "Hero Shooter", "Battle Royale", "Free to Play"]
+  },
+  {
+    "name": "Call of Duty: Warzone",
+    "genres": ["Shooter", "Battle Royale", "Action"],
+    "themes": ["Military", "Modern"],
+    "modes": ["Multiplayer", "Online", "Competitive", "Team Based"],
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "tags": ["FPS", "Battle Royale", "Military", "Free to Play"]
+  },
+  {
+    "name": "Counter-Strike 2",
+    "genres": ["Shooter", "Action", "Tactical"],
+    "themes": ["Military", "Modern"],
+    "modes": ["Multiplayer", "Online", "Competitive", "Team Based"],
+    "platforms": ["PC"],
+    "tags": ["FPS", "Tactical Shooter", "Competitive", "Esports", "Free to Play"]
+  },
+  {
+    "name": "PUBG: Battlegrounds",
+    "genres": ["Shooter", "Battle Royale", "Action"],
+    "themes": ["Military", "Survival"],
+    "modes": ["Multiplayer", "Online", "Competitive", "Team Based"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Mobile"],
+    "tags": ["FPS", "Battle Royale", "Survival", "Competitive"]
+  },
+  {
+    "name": "Halo Infinite",
+    "genres": ["Shooter", "Action"],
+    "themes": ["Sci-Fi", "Military", "Futuristic"],
+    "modes": ["Multiplayer", "Online", "Competitive", "Cooperative"],
+    "platforms": ["PC", "Xbox"],
+    "tags": ["FPS", "Sci-Fi", "Competitive", "Teamwork", "Free to Play"]
+  },
+  {
+    "name": "Destiny 2",
+    "genres": ["Shooter", "Action", "RPG"],
+    "themes": ["Sci-Fi", "Fantasy", "Space"],
+    "modes": ["Multiplayer", "Online", "Cooperative", "Competitive"],
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "tags": ["FPS", "Loot", "Space", "Co-op", "Free to Play"]
+  },
+  {
+    "name": "Left 4 Dead 2",
+    "genres": ["Shooter", "Action", "Survival"],
+    "themes": ["Horror", "Zombies", "Apocalyptic"],
+    "modes": ["Multiplayer", "Online", "Cooperative"],
+    "platforms": ["PC", "Xbox"],
+    "tags": ["FPS", "Zombie", "Horror", "Co-op", "Survival"]
+  },
+  {
+    "name": "Minecraft",
+    "genres": ["Sandbox", "Adventure", "Survival"],
+    "themes": ["Fantasy", "Colorful"],
+    "modes": ["Single Player", "Multiplayer", "Online", "Cooperative"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "tags": ["Building", "Crafting", "Open World", "Creative", "Survival"]
+  },
+  {
+    "name": "Grand Theft Auto V",
+    "genres": ["Action", "Adventure", "Open World"],
+    "themes": ["Modern", "Crime"],
+    "modes": ["Single Player", "Multiplayer", "Online"],
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "tags": ["Open World", "Driving", "Crime", "Multiplayer"]
+  },
+  {
+    "name": "Red Dead Redemption 2",
+    "genres": ["Action", "Adventure", "Open World"],
+    "themes": ["Western", "Historical"],
+    "modes": ["Single Player", "Multiplayer", "Online"],
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "tags": ["Open World", "Story", "Western", "Exploration"]
+  },
+  {
+    "name": "The Witcher 3: Wild Hunt",
+    "genres": ["RPG", "Action", "Adventure"],
+    "themes": ["Fantasy", "Medieval"],
+    "modes": ["Single Player"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "tags": ["Open World", "Story", "Fantasy", "Role Playing"]
+  },
+  {
+    "name": "Elden Ring",
+    "genres": ["RPG", "Action", "Adventure"],
+    "themes": ["Fantasy", "Dark Fantasy"],
+    "modes": ["Single Player", "Multiplayer", "Online", "Cooperative"],
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "tags": ["Open World", "Fantasy", "Soulslike", "Co-op", "Difficult"]
+  },
+  {
+    "name": "Dark Souls III",
+    "genres": ["RPG", "Action", "Adventure"],
+    "themes": ["Dark Fantasy", "Horror"],
+    "modes": ["Single Player", "Multiplayer", "Online", "Cooperative"],
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "tags": ["Soulslike", "Difficult", "Fantasy", "Co-op"]
+  },
+  {
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "genres": ["Adventure", "Action", "Open World"],
+    "themes": ["Fantasy", "Colorful"],
+    "modes": ["Single Player"],
+    "platforms": ["Nintendo Switch"],
+    "tags": ["Open World", "Exploration", "Puzzle", "Fantasy"]
+  },
+  {
+    "name": "Super Mario Odyssey",
+    "genres": ["Platformer", "Adventure", "Action"],
+    "themes": ["Colorful", "Cartoon", "Fantasy"],
+    "modes": ["Single Player"],
+    "platforms": ["Nintendo Switch"],
+    "tags": ["Platformer", "3D", "Family", "Colorful"]
+  },
+  {
+    "name": "Super Smash Bros. Ultimate",
+    "genres": ["Fighting", "Action"],
+    "themes": ["Colorful", "Cartoon", "Fantasy"],
+    "modes": ["Single Player", "Multiplayer", "Online", "Competitive"],
+    "platforms": ["Nintendo Switch"],
+    "tags": ["Fighting", "Competitive", "Party", "Multiplayer"]
+  },
+  {
+    "name": "Rocket League",
+    "genres": ["Sports", "Racing", "Action"],
+    "themes": ["Colorful", "Futuristic"],
+    "modes": ["Multiplayer", "Online", "Competitive", "Team Based"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "tags": ["Football", "Cars", "Competitive", "Sports", "Free to Play"]
+  },
+  {
+    "name": "Fall Guys",
+    "genres": ["Platformer", "Party", "Action"],
+    "themes": ["Colorful", "Cartoon", "Funny"],
+    "modes": ["Multiplayer", "Online", "Competitive"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "tags": ["Party", "Obstacle Course", "Funny", "Colorful", "Free to Play"]
+  },
+  {
+    "name": "Among Us",
+    "genres": ["Party", "Strategy", "Social"],
+    "themes": ["Colorful", "Cartoon", "Sci-Fi"],
+    "modes": ["Multiplayer", "Online", "Competitive"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "tags": ["Social Deduction", "Teamwork", "Funny", "Online", "Multiplayer"]
+  },
+  {
+    "name": "Roblox",
+    "genres": ["Sandbox", "Adventure", "Platformer"],
+    "themes": ["Colorful", "Cartoon"],
+    "modes": ["Single Player", "Multiplayer", "Online", "Cooperative"],
+    "platforms": ["PC", "Xbox", "Mobile"],
+    "tags": ["Building", "Creative", "Online", "Multiplayer", "Free to Play"]
+  },
+  {
+    "name": "Terraria",
+    "genres": ["Sandbox", "Adventure", "Action", "RPG"],
+    "themes": ["Fantasy", "Colorful"],
+    "modes": ["Single Player", "Multiplayer", "Online", "Cooperative"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "tags": ["Building", "Crafting", "Exploration", "Survival", "2D"]
+  },
+  {
+    "name": "Stardew Valley",
+    "genres": ["Simulation", "RPG", "Adventure"],
+    "themes": ["Colorful", "Fantasy", "Relaxing"],
+    "modes": ["Single Player", "Multiplayer", "Online", "Cooperative"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "tags": ["Farming", "Relaxing", "Crafting", "Co-op", "Pixel Art"]
+  },
+  {
+    "name": "Hades",
+    "genres": ["Action", "RPG", "Roguelike"],
+    "themes": ["Fantasy", "Greek Mythology"],
+    "modes": ["Single Player"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "tags": ["Roguelike", "Fast Paced", "Fantasy", "Difficult"]
+  },
+  {
+    "name": "Hollow Knight",
+    "genres": ["Action", "Adventure", "Platformer"],
+    "themes": ["Dark Fantasy", "Horror"],
+    "modes": ["Single Player"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "tags": ["Metroidvania", "Exploration", "Difficult", "2D"]
+  },
+  {
+    "name": "Celeste",
+    "genres": ["Platformer", "Adventure"],
+    "themes": ["Colorful", "Emotional"],
+    "modes": ["Single Player"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "tags": ["Platformer", "2D", "Difficult", "Indie"]
+  },
+  {
+    "name": "Cuphead",
+    "genres": ["Platformer", "Action", "Shooter"],
+    "themes": ["Cartoon", "Colorful", "Retro"],
+    "modes": ["Single Player", "Multiplayer", "Cooperative"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "tags": ["2D", "Co-op", "Difficult", "Cartoon", "Indie"]
+  },
+  {
+    "name": "It Takes Two",
+    "genres": ["Adventure", "Platformer", "Action"],
+    "themes": ["Colorful", "Fantasy"],
+    "modes": ["Multiplayer", "Cooperative"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "tags": ["Co-op", "Two Player", "Puzzle", "Story", "Teamwork"]
+  },
+  {
+    "name": "Portal 2",
+    "genres": ["Puzzle", "Adventure", "Platformer"],
+    "themes": ["Sci-Fi", "Comedy"],
+    "modes": ["Single Player", "Multiplayer", "Cooperative"],
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "tags": ["Puzzle", "Logic", "Co-op", "Sci-Fi", "First Person"]
+  },
+  {
+    "name": "Portal",
+    "genres": ["Puzzle", "Adventure"],
+    "themes": ["Sci-Fi", "Comedy"],
+    "modes": ["Single Player"],
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "tags": ["Puzzle", "Logic", "First Person", "Sci-Fi"]
+  },
+  {
+    "name": "Resident Evil 4",
+    "genres": ["Horror", "Action", "Shooter"],
+    "themes": ["Horror", "Zombies", "Dark"],
+    "modes": ["Single Player"],
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "tags": ["Survival Horror", "Zombies", "Third Person", "Story"]
+  },
+  {
+    "name": "Resident Evil Village",
+    "genres": ["Horror", "Action", "Adventure"],
+    "themes": ["Horror", "Dark Fantasy"],
+    "modes": ["Single Player"],
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "tags": ["Survival Horror", "First Person", "Story", "Scary"]
+  },
+  {
+    "name": "Dying Light",
+    "genres": ["Action", "Horror", "Survival"],
+    "themes": ["Zombies", "Apocalyptic", "Horror"],
+    "modes": ["Single Player", "Multiplayer", "Online", "Cooperative"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "tags": ["Zombie", "Parkour", "Survival", "Open World", "Co-op"]
+  },
+  {
+    "name": "Dead by Daylight",
+    "genres": ["Horror", "Action", "Survival"],
+    "themes": ["Horror", "Dark"],
+    "modes": ["Multiplayer", "Online", "Competitive"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "tags": ["Horror", "Survival", "4v1", "Online", "Competitive"]
+  },
+  {
+    "name": "Phasmophobia",
+    "genres": ["Horror", "Simulation"],
+    "themes": ["Horror", "Supernatural", "Ghosts"],
+    "modes": ["Single Player", "Multiplayer", "Online", "Cooperative"],
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "tags": ["Ghost", "Horror", "Investigation", "Co-op", "Scary"]
+  },
+  {
+    "name": "Subnautica",
+    "genres": ["Survival", "Adventure", "Simulation"],
+    "themes": ["Ocean", "Sci-Fi", "Alien"],
+    "modes": ["Single Player"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "tags": ["Survival", "Crafting", "Exploration", "Underwater", "Open World"]
+  },
+  {
+    "name": "No Man's Sky",
+    "genres": ["Adventure", "Survival", "Simulation"],
+    "themes": ["Sci-Fi", "Space", "Alien"],
+    "modes": ["Single Player", "Multiplayer", "Online", "Cooperative"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "tags": ["Space", "Exploration", "Open World", "Crafting", "Co-op"]
+  },
+  {
+    "name": "Sea of Thieves",
+    "genres": ["Adventure", "Action"],
+    "themes": ["Pirates", "Colorful"],
+    "modes": ["Multiplayer", "Online", "Cooperative", "Competitive"],
+    "platforms": ["PC", "Xbox", "PlayStation"],
+    "tags": ["Pirates", "Open World", "Exploration", "Co-op", "Multiplayer"]
+  },
+  {
+    "name": "Monster Hunter: World",
+    "genres": ["Action", "RPG", "Adventure"],
+    "themes": ["Fantasy", "Monsters"],
+    "modes": ["Single Player", "Multiplayer", "Online", "Cooperative"],
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "tags": ["Monsters", "Hunting", "Co-op", "Fantasy", "RPG"]
+  },
+  {
+    "name": "Warframe",
+    "genres": ["Shooter", "Action", "RPG"],
+    "themes": ["Sci-Fi", "Space", "Futuristic"],
+    "modes": ["Multiplayer", "Online", "Cooperative"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "tags": ["FPS", "Third Person", "Co-op", "Space", "Free to Play"]
+  },
+  {
+    "name": "The Finals",
+    "genres": ["Shooter", "Action"],
+    "themes": ["Futuristic", "Colorful"],
+    "modes": ["Multiplayer", "Online", "Competitive", "Team Based"],
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "tags": ["FPS", "Competitive", "Destruction", "Teamwork", "Free to Play"]
+  },
+  {
+    "name": "Rainbow Six Siege",
+    "genres": ["Shooter", "Tactical", "Action"],
+    "themes": ["Military", "Modern"],
+    "modes": ["Multiplayer", "Online", "Competitive", "Team Based"],
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "tags": ["FPS", "Tactical Shooter", "Competitive", "Teamwork"]
+  },
+  {
+    "name": "Team Fortress 2",
+    "genres": ["Shooter", "Action"],
+    "themes": ["Cartoon", "Colorful", "Comedy"],
+    "modes": ["Multiplayer", "Online", "Competitive", "Team Based"],
+    "platforms": ["PC"],
+    "tags": ["FPS", "Cartoon", "Teamwork", "Hero Shooter", "Free to Play"]
+  },
+  {
+    "name": "Paladins",
+    "genres": ["Shooter", "Action"],
+    "themes": ["Colorful", "Fantasy"],
+    "modes": ["Multiplayer", "Online", "Competitive", "Team Based"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "tags": ["FPS", "Hero Shooter", "Fantasy", "Teamwork", "Free to Play"]
+  },
+  {
+    "name": "Splatoon 3",
+    "genres": ["Shooter", "Action"],
+    "themes": ["Colorful", "Cartoon"],
+    "modes": ["Multiplayer", "Online", "Competitive", "Team Based"],
+    "platforms": ["Nintendo Switch"],
+    "tags": ["Third Person", "Colorful", "Competitive", "Teamwork"]
+  },
+  {
+    "name": "Plants vs. Zombies",
+    "genres": ["Strategy", "Tower Defense", "Action"],
+    "themes": ["Colorful", "Cartoon", "Funny"],
+    "modes": ["Single Player"],
+    "platforms": ["PC", "Mobile"],
+    "tags": ["Zombies", "Strategy", "Tower Defense", "Casual"]
+  },
+  {
+    "name": "Civilization VI",
+    "genres": ["Strategy", "Simulation"],
+    "themes": ["Historical", "Fantasy"],
+    "modes": ["Single Player", "Multiplayer", "Online", "Competitive"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+    "tags": ["Strategy", "Turn Based", "History", "Multiplayer"]
+  },
+  {
+    "name": "Age of Empires IV",
+    "genres": ["Strategy", "Simulation"],
+    "themes": ["Historical", "Medieval"],
+    "modes": ["Single Player", "Multiplayer", "Online", "Competitive"],
+    "platforms": ["PC", "Xbox"],
+    "tags": ["RTS", "Strategy", "Medieval", "Competitive"]
+  },
+  {
+    "name": "League of Legends",
+    "genres": ["MOBA", "Strategy", "Action"],
+    "themes": ["Fantasy", "Colorful"],
+    "modes": ["Multiplayer", "Online", "Competitive", "Team Based"],
+    "platforms": ["PC"],
+    "tags": ["MOBA", "Competitive", "Teamwork", "Esports", "Free to Play"]
+  },
+  {
+    "name": "Dota 2",
+    "genres": ["MOBA", "Strategy", "Action"],
+    "themes": ["Fantasy"],
+    "modes": ["Multiplayer", "Online", "Competitive", "Team Based"],
+    "platforms": ["PC"],
+    "tags": ["MOBA", "Competitive", "Teamwork", "Esports", "Free to Play"]
+  },
+  {
+    "name": "Genshin Impact",
+    "genres": ["RPG", "Action", "Adventure"],
+    "themes": ["Fantasy", "Colorful", "Anime"],
+    "modes": ["Single Player", "Multiplayer", "Online", "Cooperative"],
+    "platforms": ["PC", "PlayStation", "Mobile"],
+    "tags": ["Anime", "Open World", "Fantasy", "Exploration", "Free to Play"]
+  },
+  {
+    "name": "Rocket Racing",
+    "genres": ["Racing", "Action"],
+    "themes": ["Colorful", "Futuristic"],
+    "modes": ["Multiplayer", "Online", "Competitive"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "tags": ["Racing", "Cars", "Competitive", "Online", "Free to Play"]
+  },
+  {
+    "name": "Need for Speed Heat",
+    "genres": ["Racing", "Action"],
+    "themes": ["Modern", "Street"],
+    "modes": ["Single Player", "Multiplayer", "Online"],
+    "platforms": ["PC", "PlayStation", "Xbox"],
+    "tags": ["Cars", "Racing", "Open World", "Street Racing"]
+  },
+  {
+    "name": "Forza Horizon 5",
+    "genres": ["Racing", "Sports", "Open World"],
+    "themes": ["Colorful", "Modern"],
+    "modes": ["Single Player", "Multiplayer", "Online", "Competitive"],
+    "platforms": ["PC", "Xbox"],
+    "tags": ["Cars", "Racing", "Open World", "Multiplayer"]
+  },
+  {
+    "name": "FIFA 23",
+    "genres": ["Sports", "Simulation"],
+    "themes": ["Modern"],
+    "modes": ["Single Player", "Multiplayer", "Online", "Competitive"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "tags": ["Football", "Sports", "Competitive", "Multiplayer"]
+  },
+  {
+    "name": "NBA 2K24",
+    "genres": ["Sports", "Simulation"],
+    "themes": ["Modern"],
+    "modes": ["Single Player", "Multiplayer", "Online", "Competitive"],
+    "platforms": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+    "tags": ["Basketball", "Sports", "Competitive", "Multiplayer"]
+  }
+]
